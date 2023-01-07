@@ -7,11 +7,12 @@
         My experience as a senior software developer in Web and Mobile development for a lot of projects in various industries and scale let me to have a strong background of fundamental knowledge in traditional software engineering, but also the new coming latest technologies.</h4>
         <br/><br />
         Especially, modern and popular JavaScript frameworks such as React.js, Node.js, React Native, Angular, Vue are my top skills and I've already worked on many projects using them.
-        <br/><br /><br />
+        <br/><br />
+        </h4>
         <p style = "text-align : center; width : 600px; height : 100px; margin-right : 20px;  transform : translateY(25%)">
-            • I can complete projects of any size and complexity, effectively, efficiently. <br/><br />
+            • I can complete projects of any size and complexity, effectively, efficiently. <br/>
             • I bring tremendous passion and dedication to my projects, which will show in the finished product. 
-            <br/><br />
+            <br/>
             • I can bring your ideas to life from scratch, or modify and complete existing projects, and I guarantee that you will be more than happy with the results.
         </p>
         
