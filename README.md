@@ -2,10 +2,19 @@
 <h3 style= "color : #000080" align="center">A Full-Stack React and JavaScript frameworks Developer</h3>
 
 <div style= " margin : 20px; margin-Top : 20px; display : flex; justify-content : center; align-items : center">
-        <h4 style = "text-align : center; width : 600px; height : 100px; margin-right : 20px;  transform : translateY(25%)">This is Odilson, an experienced Frontend or Fullstack web and mobile developer who is always eager for developing excellent web and mobile applications with solid background of last 5 years in the industry.
+        <h4 style = "text-align : center; width : 600px; height : 100px; margin-right : 20px;  transform : translateY(25%)">This is Odilson, an experienced Fullstack Software developer with 6+ years of proven experience and strong skills in Web and Mobile Software development.
         <br/><br />
         My experience as a senior software developer in Web and Mobile development for a lot of projects in various industries and scale let me to have a strong background of fundamental knowledge in traditional software engineering, but also the new coming latest technologies.</h4>
-        <h4 style = "font-style : italic; width :600px; height : 100px; margin-left : 20px;">I am currently focused on modern JavaScript frameworks such as React, Angular, Vue, Node.js and Blockchain industry.</h4>
+        <br/><br />
+        Especially, modern and popular JavaScript frameworks such as React.js, Node.js, React Native, Angular, Vue are my top skills and I've already worked on many projects using them.
+        <br/><br /><br />
+        <p style = "text-align : center; width : 600px; height : 100px; margin-right : 20px;  transform : translateY(25%)">
+            • I can complete projects of any size and complexity, effectively, efficiently. <br/><br />
+            • I bring tremendous passion and dedication to my projects, which will show in the finished product. 
+            <br/><br />
+            • I can bring your ideas to life from scratch, or modify and complete existing projects, and I guarantee that you will be more than happy with the results.
+        </p>
+        
 </div>
 
 <p align="center">
@@ -13,20 +22,7 @@
 </p>
 
 <details open>
- <summary>Languages:</summary>
-
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) 
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-
-</details>
-
-<details open>
- <summary>Frameworks:</summary>
+ <summary>Some Of My Main Skills:</summary>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
@@ -40,6 +36,16 @@
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) 
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+
+</details>
+
+
 
 <div align="left">
 </p>
