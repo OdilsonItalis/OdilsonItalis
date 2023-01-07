@@ -4,7 +4,7 @@
 <div style= " margin : 20px; margin-Top : 20px; display : flex; justify-content : center; align-items : center">
         <h4 style = "text-align : center; width : 600px; height : 100px; margin-right : 20px;  transform : translateY(25%)">This is Odilson, an experienced Fullstack Software developer with 6+ years of proven experience and strong skills in Web and Mobile Software development.
         <br/><br />
-        My experience as a senior software developer in Web and Mobile development for a lot of projects in various industries and scale let me to have a strong background of fundamental knowledge in traditional software engineering, but also the new coming latest technologies.</h4>
+        My experience as a senior software developer in Web and Mobile development for a lot of projects in various industries and scale let me to have a strong background of fundamental knowledge in traditional software engineering, but also the new coming latest technologies.
         <br/><br />
         Especially, modern and popular JavaScript frameworks such as React.js, Node.js, React Native, Angular, Vue are my top skills and I've already worked on many projects using them.
         <br/><br />
